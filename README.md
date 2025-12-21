@@ -1,4 +1,4 @@
-# ![header](https://capsule-render.vercel.app/api?type=venom&height=300&fontSize=100&text=Hi!%20I'm%20Truc&animation=blink&fontColor=ffffff)
+# ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&fontSize=100&text=Hi!%20I'm%20Truc&animation=blink&fontColor=000000,stroke=ffc1cc)
 
 ## Hi there 👋
 

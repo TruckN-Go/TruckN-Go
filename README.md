@@ -1,4 +1,4 @@
-# ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0&height=300&fontSize=100&text=Hi!%20I'm%20Truc&fontColor=ffffff&stroke=ffc1cc&strokeWidth=2)
+# ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0&height=300&fontSize=100&text=Hi!%20I'm%20Truc&fontColor=ffffff&stroke=c195eb&strokeWidth=2)
 
 ```python
 -👂 My name is Truc (pronounced "Juke", like a jukebox)

@@ -14,7 +14,7 @@
 ```
 
 
-##💡 Current personal projects in progress:
+## 💡 Current personal projects in progress:
   * Adding a GUI to modify the nail polish families:
 ### [Nail_Polish_Color_Families](https://github.com/TruckN-Go)
 

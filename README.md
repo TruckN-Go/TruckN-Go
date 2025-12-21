@@ -1,5 +1,5 @@
 # ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=1&height=150&fontSize=100&text=Hi!%20I'm%20Truc&fontColor=000000&stroke=c195eb&strokeWidth=2)
-
+url = https://github.com/TruckN-Go
 ```python
 -👂 My name (Truc) is pronounced "Juke", like a jukebox
 -👩🏻‍💻 she/her/hers
@@ -13,9 +13,9 @@
   *Emotional support beverages 🍵🧋 Stay hydrated 😌
   *Supporting initiative to promote inclusion in STEM
 -💡 Current personal projects in progress:
-  * Adding a GUI to modify the nail polish families
+  * Adding a GUI to modify the nail polish families: Nail_Polish_Color_Families
 ```
-# [a link]([https://github.com/user/repo/blob/branch/other_file.md](https://github.com/TruckN-Go)
+
 <!--
 **TruckN-Go/TruckN-Go** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

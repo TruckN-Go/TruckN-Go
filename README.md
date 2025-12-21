@@ -1,4 +1,4 @@
-# ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=(1)%fontSize=30&theme=date_night)
+# ![header](https://capsule-render.vercel.app/api?type=venom&fontSize=30&theme=date_night)
 ## Hi there 👋
 
 -👂 My name is Truc (pronounced "Juke", like a jukebox)

@@ -1,5 +1,4 @@
-# ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0&height=300&fontSize=100&text=Hi!%20I'm%20Truc&fontColor=000000,stroke=ffc1cc)
-
+# ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0&height=300&fontSize=100&text=Hi!%20I'm%20Truc&fontColor=ffffff&stroke=ffc1cc&strokeWidth=2)
 ## Hi there 👋
 
 ```yaml

@@ -1,4 +1,4 @@
-# ![header](https://capsule-render.vercel.app/api?type=venom&height=300&fontSize=100&text=Hi!%20I'm%20Truc!&animation=twinlking%fontColor=FFFFFF)
+# ![header](https://capsule-render.vercel.app/api?type=venom&height=300&fontSize=100&text=Hi!%20I'm%20Truc!&animation=twinlking%fontColor=ffffff)
 # ![reversal](https://capsule-render.vercel.app/api?type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=omni)
 ## Hi there 👋
 

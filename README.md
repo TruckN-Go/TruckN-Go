@@ -1,7 +1,8 @@
 # ![header](https://capsule-render.vercel.app/api?type=venom&height=300&fontSize=100&text=Hi!%20I'm%20Truc&animation=blink&fontColor=ffffff)
-# ![reversal](https://capsule-render.vercel.app/api?type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=omni)
+
 ## Hi there 👋
 
+```yaml
 -👂 My name is Truc (pronounced "Juke", like a jukebox)
 -👩🏻‍💻 she/her/hers
 -🌹 My hobbies include:
@@ -13,7 +14,7 @@
 -🩵 I love:
   *Emotional support beverages 🍵🧋 Stay hydrated 😌
   *Supporting initiative to promote inclusion in STEM
-
+```
 <!--
 **TruckN-Go/TruckN-Go** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

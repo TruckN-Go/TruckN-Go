@@ -1,5 +1,21 @@
 ## Hi there 👋
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
+-👂 My name is Truc (pronounced "Juke", like a jukebox)
+-👩🏻‍💻 she/her/hers
+-🌹 My hobbies include:
+  *Coding pretty figures 💻
+  *Dancing (latin/hip-hop) 💃
+  *Reformer pilates 🧘‍♀️
+  *Weightlifting 🏋️‍♀️
+  *Being sassy 💅😈
+-🩵 I love:
+  *Emotional support beverages 🍵🧋 Stay hydrated 😌
+  *Supporting initiative to promote inclusion in STEM
+
 <!--
 **TruckN-Go/TruckN-Go** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

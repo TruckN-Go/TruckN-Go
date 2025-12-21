@@ -1,4 +1,4 @@
-# ![header](https://capsule-render.vercel.app/api?type=venom&fontSize=30&theme=rose)
+# ![header](https://capsule-render.vercel.app/api?type=venom&fontSize=30&theme=omni)
 # ![reversal](https://capsule-render.vercel.app/api?type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=omni)
 ## Hi there 👋
 

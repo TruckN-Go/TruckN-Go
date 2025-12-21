@@ -12,7 +12,10 @@
 -🩵 I love:
   *Emotional support beverages 🍵🧋 Stay hydrated 😌
   *Supporting initiative to promote inclusion in STEM
+-💡 Current personal projects in progress:
+  * Adding a GUI to modify the nail polish families
 ```
+# [a link]([https://github.com/user/repo/blob/branch/other_file.md](https://github.com/TruckN-Go)
 <!--
 **TruckN-Go/TruckN-Go** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

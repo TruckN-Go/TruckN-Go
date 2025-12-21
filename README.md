@@ -12,7 +12,8 @@
   *Emotional support beverages 🍵🧋 Stay hydrated 😌
   *Supporting initiative to promote inclusion in STEM
 -💡 Current personal projects in progress:
-  * Adding a GUI to modify the nail polish families: [Nail_Polish_Color_Families](https://github.com/TruckN-Go)
+  * Adding a GUI to modify the nail polish families:
+# [Nail_Polish_Color_Families](https://github.com/TruckN-Go)
 
 ```
 

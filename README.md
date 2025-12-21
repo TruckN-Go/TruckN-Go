@@ -1,7 +1,7 @@
 # ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=1&height=300&fontSize=100&text=Hi!%20I'm%20Truc&fontColor=000000&stroke=c195eb&strokeWidth=2)
 
 ```python
--👂 My name is Truc (pronounced "Juke", like a jukebox)
+-👂 My name is pronounced "Juke", like a jukebox
 -👩🏻‍💻 she/her/hers
 -🌹 My hobbies include:
   *Coding pretty figures 💻

@@ -1,4 +1,5 @@
-# ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=1&height=200&fontSize=50&text=Hi!%20I'm%20Truc.-nl-Here's%20a%20little%20about%20me:&fontColor=000000&stroke=c195eb&strokeWidth=2&)
+# ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=1&height=200&fontSize=50&text=Hi!%20I'm%20Truc.-nl-Here's%20a%20little%20about%20me:&fontColor=000000&stroke=c195eb&strokeWidth=1&fontAlignY=60)
+
 ```python
 -👂 My name (Truc) is pronounced "Juke", like a jukebox
 -👩🏻‍💻 she/her/hers

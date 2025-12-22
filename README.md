@@ -16,7 +16,8 @@
 ```
 
 # 💡 Current personal projects in progress:
-- Adding a GUI to modify the nail polish families: [Nail_Polish_Color_Families](https://github.com/TruckN-Go/ "Named link title")
+- Adding a GUI to modify the color family thresholds in [Nail_Polish_Color_Families](https://github.com/TruckN-Go/ "Named link title")
+- Hover over my face on my website that's still in progress: [My Website](truckn-go.github.io "Named link title")
 
 
 

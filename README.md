@@ -9,10 +9,10 @@
   * Reformer pilates 🧘‍♀️
   * Weightlifting 🏋️‍♀️
   * Photography & videography 📸
-  * Being sassy 💅😈
+  * Being sassy 😈
 -🩵 I love:
   * Emotional support beverages 🍵🧋 Stay hydrated 😌
-  * Supporting initiatives to promote inclusion in STEM
+  * Initiatives promoting inclusion in STEM 💁🏻‍♀️💅
 ```
 
 # 💡 Current personal projects in progress:

@@ -16,8 +16,12 @@
 ```
 
 # 💡 Current personal projects in progress:
-- Adding a GUI to modify the color family thresholds in [Nail_Polish_Color_Families](https://github.com/TruckN-Go/ "Named link title")
-- Hover over my face on my website that's still in progress: [My Website](https://truckn-go.github.io/Ngo-Portfolio/ "Named link title")
+- Modeling leg curls and leg extensions (MATLAB) - coming soon: [Biomechanics Builder](https://github.com/TruckN-Go/ "Named link title")
+- Boxplot class for group-level analyses (MATLAB) - coming soon: [Biomechanics Builder](https://github.com/TruckN-Go/ "Named link title")
+- I've been tracking my caffeine to graph bc I love data - coming soon: [Data of Me](https://github.com/TruckN-Go/ "Named link title")
+- I preformed my own experiment for my PhD - coming soon: [Data of Me](https://github.com/TruckN-Go/ "Named link title")
+- Adding a GUI to modify the color family thresholds (Python): [Nail_Polish_Color_Families](https://github.com/TruckN-Go/ "Named link title")
+- Hover over my face on my website that's still in progress (HTML/CSS): [My Website](https://truckn-go.github.io/Ngo-Portfolio/ "Named link title")
 
 
 

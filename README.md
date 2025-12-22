@@ -12,7 +12,7 @@
   * Being sassy 💅😈
 -🩵 I love:
   * Emotional support beverages 🍵🧋 Stay hydrated 😌
-  * Supporting initiative to promote inclusion in STEM
+  * Supporting initiatives to promote inclusion in STEM
 ```
 
 # 💡 Current personal projects in progress:

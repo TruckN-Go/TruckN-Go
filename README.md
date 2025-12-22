@@ -15,11 +15,16 @@
   * Supporting initiative to promote inclusion in STEM
 ```
 
+# 💡 Current personal projects in progress:
+- Adding a GUI to modify the nail polish families: [Nail_Polish_Color_Families](https://github.com/TruckN-Go/ "Named link title")
 
-## 💡 Current personal projects in progress:
-- Adding a GUI to modify the nail polish families:
-[Nail_Polish_Color_Families](https://github.com/TruckN-Go/ "Named link title")
-[Named Link](http://www.google.fr/ "Named link title")
+
+
+
+
+
+
+
 <!--
 **TruckN-Go/TruckN-Go** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

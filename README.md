@@ -4,21 +4,21 @@
 -👂 My name (Truc) is pronounced "Juke", like a jukebox
 -👩🏻‍💻 she/her/hers
 -🌹 My hobbies include:
-  *Coding pretty figures 💻
-  *Dancing (latin/hip-hop) 💃
-  *Reformer pilates 🧘‍♀️
-  *Weightlifting 🏋️‍♀️
-  *Photography & videography 📸
-  *Being sassy 💅😈
+  * Coding pretty figures 💻
+  * Dancing (latin/hip-hop) 💃
+  * Reformer pilates 🧘‍♀️
+  * Weightlifting 🏋️‍♀️
+  * Photography & videography 📸
+  * Being sassy 💅😈
 -🩵 I love:
-  *Emotional support beverages 🍵🧋 Stay hydrated 😌
-  *Supporting initiative to promote inclusion in STEM
+  * Emotional support beverages 🍵🧋 Stay hydrated 😌
+  * Supporting initiative to promote inclusion in STEM
 ```
 
 
 ## 💡 Current personal projects in progress:
 ```
-* Adding a GUI to modify the nail polish families: [Nail_Polish_Color_Families]([https://pages.github.com/](https://github.com/TruckN-Go))
+*Adding a GUI to modify the nail polish families: [Nail_Polish_Color_Families]([https://pages.github.com/](https://github.com/TruckN-Go))
  ` - Hi
 ```
 

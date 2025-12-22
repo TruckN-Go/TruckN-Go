@@ -18,7 +18,7 @@
 
 ## 💡 Current personal projects in progress:
 ```
-[Named Link](https://github.com/TruckN-Go/ "Nail_Polish_Color_Families") and https://github.com/TruckN-Go
+[Nail_Polish_Color_Families](https://github.com/TruckN-Go/) and https://github.com/TruckN-Go
 *Adding a GUI to modify the nail polish families: [Nail_Polish_Color_Families](https://github.com/TruckN-Go)
  ` - Hi
 ```

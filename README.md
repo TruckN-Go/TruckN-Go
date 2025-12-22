@@ -7,6 +7,7 @@
   *Dancing (latin/hip-hop) 💃
   *Reformer pilates 🧘‍♀️
   *Weightlifting 🏋️‍♀️
+  *Photography & videography 📸
   *Being sassy 💅😈
 -🩵 I love:
   *Emotional support beverages 🍵🧋 Stay hydrated 😌

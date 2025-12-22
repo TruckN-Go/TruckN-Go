@@ -17,7 +17,7 @@
 
 
 ## 💡 Current personal projects in progress:
-  * Adding a GUI to modify the nail polish families: [Nail_Polish_Color_Families]([https://pages.github.com/](https://github.com/TruckN-Go))
+##  * Adding a GUI to modify the nail polish families: [Nail_Polish_Color_Families]([https://pages.github.com/](https://github.com/TruckN-Go))
 
 <!--
 **TruckN-Go/TruckN-Go** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -19,7 +19,8 @@
 <p align="center">
  <img width="821" height="150" alt="x_axis_figures" src="https://github.com/user-attachments/assets/3f2182ca-5f3d-46e2-83fc-54677d64eef5" />
 </p>
-- [Nail_Polish_Color_Families](https://github.com/TruckN-Go/ "Named link title")
+
+- [Nail_Polish_Color_Families](https://github.com/TruckN-Go/Nail_Polish_Color_Families "Named link title")
 <p align="center">
  <img src="https://github.com/TruckN-Go/Nail_Polish_Color_Families/blob/main/figures/Color_Family_Preview.png?raw=true" width="400">
 </p>

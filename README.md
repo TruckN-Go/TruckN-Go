@@ -19,19 +19,23 @@
 <p align="center">
  <img width="821" height="150" alt="x_axis_figures" src="https://github.com/user-attachments/assets/3f2182ca-5f3d-46e2-83fc-54677d64eef5" />
 </p>
+- [Nail_Polish_Color_Families](https://github.com/TruckN-Go/ "Named link title")
+<p align="center">
+ <img width="1075" height="711" alt="Color_Family_Preview" src="https://github.com/user-attachments/assets/10e3bc96-42bc-4084-88e0-857ce45d7da2" />
+</p>
 
 # 💡 Current personal projects in progress:
 - Modeling leg curls and leg extensions (MATLAB) - coming soon: [Biomechanics Builder](https://github.com/TruckN-Go/Biomechanics_Builder "Named link title")
 - Boxplot class for group-level analyses (MATLAB) - coming soon: [Biomechanics Builder](https://github.com/TruckN-Go/Biomechanics_Builder "Named link title")
 - Adding a GUI to modify the color family thresholds (Python): [Nail_Polish_Color_Families](https://github.com/TruckN-Go/ "Named link title")
 - Hover over my face on my website that's still in progress (HTML/CSS): [My Website](https://truckn-go.github.io/Ngo-Portfolio/ "Named link title")
+- I've been tracking my caffeine to graph bc I love data - Repo coming soon...: [Data of Me](https://github.com/TruckN-Go/ "Named link title")
+- I preformed my own experiment for my PhD -  - Repo coming soon...: [Data of Me](https://github.com/TruckN-Go/ "Named link title")
 
 
 
 <!--
 
-- I've been tracking my caffeine to graph bc I love data - coming soon: [Data of Me](https://github.com/TruckN-Go/ "Named link title")
-- I preformed my own experiment for my PhD - coming soon: [Data of Me](https://github.com/TruckN-Go/ "Named link title")
 
 
 

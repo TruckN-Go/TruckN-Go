@@ -14,23 +14,27 @@
   * Emotional support beverages 🍵🧋 Stay hydrated 😌
   * Initiatives promoting inclusion in STEM 💁🏻‍♀️💅
 ```
+# Here's a preview of some of my projects!
+- [Biomechanics Builder](https://github.com/TruckN-Go/Biomechanics_Builder "Named link title")
+<p align="center">
+ <img width="821" height="150" alt="x_axis_figures" src="https://github.com/user-attachments/assets/3f2182ca-5f3d-46e2-83fc-54677d64eef5" />
+</p>
 
 # 💡 Current personal projects in progress:
 - Modeling leg curls and leg extensions (MATLAB) - coming soon: [Biomechanics Builder](https://github.com/TruckN-Go/Biomechanics_Builder "Named link title")
 - Boxplot class for group-level analyses (MATLAB) - coming soon: [Biomechanics Builder](https://github.com/TruckN-Go/Biomechanics_Builder "Named link title")
-- I've been tracking my caffeine to graph bc I love data - coming soon: [Data of Me](https://github.com/TruckN-Go/ "Named link title")
-- I preformed my own experiment for my PhD - coming soon: [Data of Me](https://github.com/TruckN-Go/ "Named link title")
 - Adding a GUI to modify the color family thresholds (Python): [Nail_Polish_Color_Families](https://github.com/TruckN-Go/ "Named link title")
 - Hover over my face on my website that's still in progress (HTML/CSS): [My Website](https://truckn-go.github.io/Ngo-Portfolio/ "Named link title")
 
 
 
-
-
-
-
-
 <!--
+
+- I've been tracking my caffeine to graph bc I love data - coming soon: [Data of Me](https://github.com/TruckN-Go/ "Named link title")
+- I preformed my own experiment for my PhD - coming soon: [Data of Me](https://github.com/TruckN-Go/ "Named link title")
+
+
+
 **TruckN-Go/TruckN-Go** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

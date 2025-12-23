@@ -16,8 +16,8 @@
 ```
 
 # 💡 Current personal projects in progress:
-- Modeling leg curls and leg extensions (MATLAB) - coming soon: [Biomechanics Builder](https://github.com/TruckN-Go/ "Named link title")
-- Boxplot class for group-level analyses (MATLAB) - coming soon: [Biomechanics Builder](https://github.com/TruckN-Go/ "Named link title")
+- Modeling leg curls and leg extensions (MATLAB) - coming soon: [Biomechanics Builder](https://github.com/TruckN-Go/Biomechanics_Builder "Named link title")
+- Boxplot class for group-level analyses (MATLAB) - coming soon: [Biomechanics Builder](https://github.com/TruckN-Go/Biomechanics_Builder "Named link title")
 - I've been tracking my caffeine to graph bc I love data - coming soon: [Data of Me](https://github.com/TruckN-Go/ "Named link title")
 - I preformed my own experiment for my PhD - coming soon: [Data of Me](https://github.com/TruckN-Go/ "Named link title")
 - Adding a GUI to modify the color family thresholds (Python): [Nail_Polish_Color_Families](https://github.com/TruckN-Go/ "Named link title")

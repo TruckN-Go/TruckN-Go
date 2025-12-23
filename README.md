@@ -21,7 +21,7 @@
 </p>
 - [Nail_Polish_Color_Families](https://github.com/TruckN-Go/ "Named link title")
 <p align="center">
- <img src="https://github.com/TruckN-Go/Nail_Polish_Color_Families/blob/main/figures/Color_Family_Preview.png?raw=true" width="48">
+ <img src="https://github.com/TruckN-Go/Nail_Polish_Color_Families/blob/main/figures/Color_Family_Preview.png?raw=true" height="100">
 </p>
 
 # 💡 Current personal projects in progress:
